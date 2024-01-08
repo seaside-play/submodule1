@@ -3,3 +3,5 @@
 
 Teacher::Teacher() {}
 Teacher::~Teacher() {}
+
+void Teacher::HasAClass() {}
