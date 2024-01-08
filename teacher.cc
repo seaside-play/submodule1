@@ -2,3 +2,4 @@
 
 
 Teacher::Teacher() {}
+Teacher::~Teacher() {}
