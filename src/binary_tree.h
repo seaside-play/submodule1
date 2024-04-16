@@ -23,6 +23,7 @@ class BinaryTree {
 	bool CreateBinaryTree(const std::vector<int>& data);
 
 	std::vector<int> PreOrderTraversal(TreeNode* root);
+   std::vector<int> PostOrderTraversalNotRecursive(TreeNode* root);
 
  private:
   BinaryTree* root_;
